@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JedyMovieAppTest</string>
+    <string name="search">Search</string>
+    <string name="search_placeholder">Search…</string>
+    <string name="refresh">Refresh</string>
+    <string name="details">Details</string>
+    <string name="unmark_favorite">Unmark Favorite</string>
+    <string name="mark_favorite">Mark Favorite</string>
+    <string name="error_fetch_data">Can\'t fetch data</string>
+    <string name="type">Type</string>
+    <string name="favorites">Favorites</string>
+</resources>
